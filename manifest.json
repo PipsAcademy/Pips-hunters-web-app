@@ -1,0 +1,17 @@
+{
+  "name": "Pips Hunter Official",
+  "short_name": "PipsHunter",
+  "description": "Quality signals with deep analysis",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
